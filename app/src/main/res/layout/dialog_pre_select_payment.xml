@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_5sdp"
+    android:background="@color/white"
+    android:layout_gravity="center">
+
+    <TextView
+        android:id="@+id/tv_pre_select_payment_title"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:text="@string/pre_select_payment_title"
+        android:textColor="@color/lightblue700"
+        android:textSize="@dimen/_16ssp"/>
+
+    <ListView
+        android:id="@+id/lv_pre_select_payment_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/_5sdp"
+        android:layout_marginBottom="@dimen/_5sdp"
+        android:padding="@dimen/_10sdp"
+        android:divider="@color/lightblue700"
+        android:dividerHeight="@dimen/_2sdp"
+        android:scrollbars="none"/>
+
+</LinearLayout>

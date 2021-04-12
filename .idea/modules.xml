@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UserHalp.iml" filepath="$PROJECT_DIR$/UserHalp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UserHalp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UserHalp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reclv_animation/UserHalp.reclv_animation.iml" filepath="$PROJECT_DIR$/.idea/modules/reclv_animation/UserHalp.reclv_animation.iml" />
+    </modules>
+  </component>
+</project>

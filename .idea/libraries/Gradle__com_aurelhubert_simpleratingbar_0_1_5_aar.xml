@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.aurelhubert:simpleratingbar:0.1.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80cae53880407b7094784bcd0525e543/simpleratingbar-0.1.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80cae53880407b7094784bcd0525e543/simpleratingbar-0.1.5/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/80cae53880407b7094784bcd0525e543/simpleratingbar-0.1.5/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aurelhubert/simpleratingbar/0.1.5/3ffe2a25a709087a92d42ccd3393467beba77372/simpleratingbar-0.1.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.aurelhubert/simpleratingbar/0.1.5/c67444cfe445e38c123904cca697a4bcbbc8b5a7/simpleratingbar-0.1.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
